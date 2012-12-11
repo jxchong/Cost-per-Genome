@@ -1,7 +1,6 @@
 Cost-per-Genome
 ===============
 
-R graph of the infamous and ugly NIH Cost per Genome slide
+Barebones code to make a graph of the infamous and ugly NIH Cost per Genome slide in R
 
-Data from: http://www.genome.gov/sequencingcosts/
-
+Data retrieved from: http://www.genome.gov/sequencingcosts/  (current as of Dec 11, 2012)
